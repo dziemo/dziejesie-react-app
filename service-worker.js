@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dziejesie-react-app/precache-manifest.c3ac723ce0cca1032139195de09f31f7.js"
+  "/dziejesie-react-app/precache-manifest.4a20b51f58f567d1162f84c2a508670e.js"
 );
 
 workbox.clientsClaim();
